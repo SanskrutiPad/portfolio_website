@@ -1,0 +1,16 @@
+Vite:
+    Dev tool used that uses modern javascript
+
+Node.JS:
+    A runtime environment (software framework to run/execute a programming language) that allows you to run JS on the server side
+
+Tailwindcss:
+    A CSS framework
+
+
+Packages used:
+    - Node.js
+    - Tailwindcss
+
+Language:
+    - React Typescript
